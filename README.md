@@ -1,4 +1,4 @@
-# Covid19
+# COVID-19
 🌍 Comprehensive COVID-19 Data Analysis & Modeling 🦠
 Welcome to the Comprehensive COVID-19 Data Analysis and Modeling repository! This project focuses on analyzing and modeling the spread and impact of COVID-19 using machine learning techniques. The primary objective is to provide insightful data-driven predictions and visualizations to understand the trends, patterns, and factors that influenced the pandemic. 📊
 
@@ -8,6 +8,7 @@ Welcome to the Comprehensive COVID-19 Data Analysis and Modeling repository! Thi
 - Exploratory Data Analysis (EDA) 🔍: Visualizing and understanding trends (cases, recoveries, deaths) through interactive plots and statistical analysis.<br>
 - Evaluation & Metrics 📈: Analyzing model accuracy, precision, recall, and more to ensure reliable predictions.<br>
 - Interactive Dashboards 🖥️: Creating dynamic visualizations to allow real-time monitoring of trends.
+
 
 🔧 Tech Stack:
 - Languages: Python 🐍<br>
