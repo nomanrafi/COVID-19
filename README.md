@@ -1,4 +1,4 @@
-vvv# COVID-19
+vvvv# COVID-19
 🌍 Comprehensive COVID-19 Data Analysis & Modeling 🦠
 Welcome to the Comprehensive COVID-19 Data Analysis and Modeling repository! This project focuses on analyzing and modeling the spread and impact of COVID-19 using machine learning techniques. The primary objective is to provide insightful data-driven predictions and visualizations to understand the trends, patterns, and factors that influenced the pandemic. 📊
 
